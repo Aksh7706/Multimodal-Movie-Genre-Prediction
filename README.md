@@ -1,5 +1,6 @@
 # Multimodal-Movie-Genre-Prediction
 A multi-modal deep learning model trained to predict a movie's genre given the movie poster and overview as an input.
+
 ![output](https://user-images.githubusercontent.com/46279921/131023535-b4d474f6-18c1-4301-ac2c-aba96843f1e3.gif)
 
 ## Architecture
